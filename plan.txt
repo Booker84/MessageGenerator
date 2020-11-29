@@ -1,0 +1,7 @@
+step 1 - create several arrays containing the framework of a message
+
+step 2 - write a function which will select one word from each array using Math.Random
+
+step 3 - push the selected word from each array into a new empty array, in order
+
+step 4 - use the join function to display the new Array as a sentence
